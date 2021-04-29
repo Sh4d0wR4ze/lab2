@@ -19,8 +19,8 @@
         </Grid.ColumnDefinitions>
         <Grid.Background>
             <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
-                <GradientStop Color="Black"/>
-                <GradientStop Color="#FF24B9D1" Offset="0.528"/>
+                <GradientStop Color="Yellow"/>
+                <GradientStop Color="LightBlue" Offset="0.528"/>
             </LinearGradientBrush>
         </Grid.Background>
         <ListView Name = "Menu"  HorizontalAlignment="Left" Height="385" VerticalAlignment="Top" Width="266" Margin="14,16,0,0" RenderTransformOrigin="0.525,0.29" FontFamily="Bodoni MT Black" Grid.RowSpan="2" FontSize="14">
